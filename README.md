@@ -19,7 +19,6 @@ This project builds a Convolutional Neural Network (CNN) model to classify butte
 mkdir -p ~/.kaggle
 cp kaggle.json ~/.kaggle/
 kaggle datasets download phucthaiv02/butterfly-image-classification
-unzip butterfly-image-classification.zip
 ```
 
 ---
